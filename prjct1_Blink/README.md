@@ -10,6 +10,7 @@ this is to blink one LED
 - 3 jumper wires
 - breadboard
 - LED light
+- 220 ohm resistor
 
 # CONNECTION FLOW
 digital pin 13 -> yellow wire -> resistor -> LED -> white wire ->  negative rail -> black wire -> GND pin

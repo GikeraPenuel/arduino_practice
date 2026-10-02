@@ -22,9 +22,6 @@ Turning a step motor using a potentiometer
 - data flows from potentiometer to pin A0 through orange
 - data the flows from pins 8, 9, 10, 11 to the driver board through the yellow, green, blue, orange/brown wires respectively.
 
-## NOTE
-ensure pin 8 is connected to positive of piezo buzzer
-
 
 <p align = "center">
     <img src= "images/pic4.jpeg" width = "600">

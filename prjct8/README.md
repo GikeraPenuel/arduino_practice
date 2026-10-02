@@ -20,7 +20,7 @@ Turning a step motor using a buttons
 - the orange and red wire power the motor and driver each being negative and positive(5V) respectively
 # DATA FLOW
 - data flows from buttons to pin 2, 3 through the wires
-- data the flows from pins 8, 9, 10, 11 to the driver board through the green, yellow,orange/brown, blue wires respectively.
+- data the flows from pins 8, 9, 10, 11 to the driver board through the green, yellow,orange/brown, blue wires respectively...
 
 
 <p align = "center">
